@@ -1,8 +1,6 @@
 # Prerequisites
-# Making 
-- JDK 17 or 21
+- JDK 17 or 22
 - Maven 3.9
-- MySQL 8
 
 # Technologies 
 - Spring MVC
